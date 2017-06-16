@@ -1,9 +1,13 @@
 #include <stdio.h>
 
+void b(void)
+{
+	printf("My B dunction\n")
+}
+
 int main()
 {
-	printf("Hello\n");
-	printf("New string\n");
-	printf("One more line\n");
+	printf("Hello, World!\r\n");
+	b();
 	return(0);
 }
