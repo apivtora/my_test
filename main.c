@@ -2,7 +2,7 @@
 
 void b(void)
 {
-	printf("My B dunction\n")
+	printf("B\n");
 }
 
 int main()
